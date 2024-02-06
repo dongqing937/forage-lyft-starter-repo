@@ -1,6 +1,7 @@
 from abc import ABC
 
 from car import Car
+import numpy as np
 
 
 class SternmanEngine(Car, ABC):
