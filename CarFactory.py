@@ -2,7 +2,7 @@
 from car import Car
 from engine.capulet_engine import CapuletEngine
 from engine.sternman_engine import SternmanEngine
-from engine.Willoughby_Engine import WilloughbyEngine
+from engine.Willoughby_engine import *
 from battery.spindlerbattery import spindlerbattery
 from battery.nubbinbattery import nubbinbattery
 
