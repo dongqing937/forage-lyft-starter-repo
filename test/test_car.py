@@ -6,7 +6,6 @@ from engine.capulet_engine import CapuletEngine
 from engine.Willoughby_engine import WilloughbyEngine
 from engine.sternman_engine import SternmanEngine
 
-
 class TestNubbin(unittest.TestCase):
     def test_battery_should_be_serviced(self):
         current_date = datetime.today().date()
